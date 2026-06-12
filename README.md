@@ -314,6 +314,6 @@ AI_powered_churn_prediction_system/
 
 <div align="center">
 
-### ⭐ If you like this project, please give it a star ⭐
+
 
 </div>

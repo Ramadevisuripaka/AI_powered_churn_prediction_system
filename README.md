@@ -1,4 +1,4 @@
-# AI_powered_churn_prediction_system
+
 <div align="center">
 
 # 🧠 AI Powered Customer Retention System
